@@ -7,7 +7,7 @@ PIC18F8720
 
 **
 By
-Srikanth Manam 
-Srinivasulu Raju S 
+Srikanth Manam, 
+S Srinivasulu Raju, 
 Madhu Kumar Patnala 
 **
