@@ -11,3 +11,5 @@ Srikanth Manam,
 S Srinivasulu Raju, 
 Madhu Kumar Patnala 
 **
+
+PIC18 Microcontroller Basics & Design of Embedded Systems © 2026 by Srikanth Manam, S Srinivasulu Raju, Madhu Kumar Patnala is licensed under CC BY-NC-ND 4.0
